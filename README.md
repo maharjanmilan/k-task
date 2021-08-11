@@ -7,8 +7,10 @@ Php code is inside the `src` directory.
 ## Execution
 The example code is written at `src/index.php`
 
+In this example user buys 2 power banks with price 1.4 each. The user already has 300 reward points, so pays with reward points. 
+
 The result can be viewed running this file from terminal as    
-`$ php src/index`
+`$ php src/index.php`
 
 To view it in the browser  
 `$ php -S localhost:8888 src/index.php`
