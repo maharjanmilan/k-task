@@ -1,6 +1,17 @@
-## Run
-You can run this project from  cli directly ``php index.php``
+## Answers
+Mysql query and calcuation answer is inside answers directory.
 
+Flowchart and schema design for reward system is in the root directory. 
+Php code is inside the `src` directory.
+
+## Execution
+The example code is written at `src/index.php`
+
+The result can be viewed running this file from terminal as    
+`$ php src/index`
+
+To view it in the browser  
+`$ php -S localhost:8888 src/index.php`
 
 ## Question
 
