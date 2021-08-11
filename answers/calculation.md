@@ -10,4 +10,4 @@ GST Amount
 
 => `0.283`
 
-###GST Amount = `MYR 0.283`
+### GST Amount = `MYR 0.283`
