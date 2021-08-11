@@ -1,0 +1,16 @@
+{
+    "name": "milanmaharjan/kunyo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Milan Maharjan",
+            "email": "milan.com@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/App/"
+        }
+    }
+}
